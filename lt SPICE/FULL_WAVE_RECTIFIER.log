@@ -1,0 +1,73 @@
+Circuit: * D:\NIT GOA\Third Year\LIC\lt SPICE\FULL_WAVE_RECTIFIER.asc
+
+Instance "m:u2:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:5": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08482
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03537
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.02233
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.0157
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01284
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.0102
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00845
+vernier = 0.00068587
+Gmin = 1.00694
+vernier = 0.000914493
+vernier = 0.000457247
+vernier = 0.000609662
+vernier = 0.000457246
+Gmin = 1.00619
+vernier = 0.000609662
+vernier = 0.000457246
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sat Mar 16 17:31:11 2024
+Total elapsed time: 0.438 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10080
+traniter = 2581
+tranpoints = 1203
+accept = 1152
+rejected = 51
+matrix size = 82
+fillins = 90
+solver = Normal
+Thread vector: 4.5/3.1[2] 2.5/1.7[2] 2.8/1.8[2] 0.2/0.7[1]  2592/500
+Matrix Compiler1: 7.10 KB object code size  2.0/0.8/[0.3]
+Matrix Compiler2: 8.83 KB object code size  0.9/0.8/[0.5]
+

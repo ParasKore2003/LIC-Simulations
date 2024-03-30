@@ -1,0 +1,23 @@
+Circuit: * D:\NIT GOA\Third Year\LIC\lt SPICE\INTEGRATOR_IDEAL.asc
+
+Instance "m:u1:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Mar 29 19:36:20 2024
+Total elapsed time: 0.379 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2118
+traniter = 2095
+tranpoints = 1048
+accept = 1047
+rejected = 1
+matrix size = 42
+fillins = 22
+solver = Normal
+Matrix Compiler1: 3.12 KB object code size  0.7/0.3/[0.1]
+Matrix Compiler2: off  [0.3]/0.4/0.3
+

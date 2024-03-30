@@ -1,0 +1,23 @@
+Circuit: * D:\NIT GOA\Third Year\LIC\lt SPICE\SOURCE_FOLLOWER.asc
+
+Instance "m:u1:6": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:5": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Mar 16 13:23:00 2024
+Total elapsed time: 0.455 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2117
+traniter = 2094
+tranpoints = 1048
+accept = 1048
+rejected = 0
+matrix size = 40
+fillins = 19
+solver = Normal
+Matrix Compiler1: 2.72 KB object code size  0.7/0.4/[0.2]
+Matrix Compiler2: off  [0.4]/0.5/0.7
+
